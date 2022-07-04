@@ -1,5 +1,4 @@
-#one{
-    
+#one{    
     font-size: 60px;
 }
 #two{
@@ -17,23 +16,18 @@ span{
 h2{
     font-size: 45px;
 }
-
 section{
     display:flex;
 }
 #four img{
     width: 100%;
     padding-left: 55%;
-    
-      
 }
 #five{
     width: 50%;
-    padding-left: 3%;
-    
-    
+    padding-left: 3%;   
 }
-#link{
+.link{
     background-color: rgb(220, 143, 0);
     text-decoration: none;
     border-radius: 3%;
@@ -43,8 +37,31 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     text-decoration: dotted;
-    margin: 30%;
-
-    
-    
+    margin: 30%;    
 }
+.cool-image{
+    background-image: url(images/cool-background.png);
+    background-size: ;
+    padding-bottom: 21%;
+  
+}
+#part-two{
+    display: flex;
+    background-image: url(images/cool-background.png);
+}
+
+#eidht{
+    font-size: 30%;
+    width: 50%;
+    padding-left: 5px;
+    text-size-adjust: 20%;
+}
+#nine{
+    font-size: 30px;
+    width: 50%;
+    padding-left:30px;
+}   
+.ten{
+    text-align: justify;
+}
+
