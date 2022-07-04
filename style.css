@@ -63,5 +63,10 @@ section{
 }   
 .ten{
     text-align: justify;
+    padding-right: 15px;
+    padding-left: 2px;
+}
+#ne-ch{
+    display: flex;
 }
 
