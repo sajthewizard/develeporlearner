@@ -73,14 +73,15 @@ section{
     padding-left: 5%;
 }
 .yes{
-    font-size: 40px;
-    width: 30%;
-    padding-left: 400px;
+    font-size: 30px;
+    text-align: center;
+    
 }
 .chi{
-    font-size: 40px;
-    width: 30%;
-    margin-left: 10%;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
   
 
 }
@@ -92,7 +93,9 @@ section{
 }
 .kamlesh{
     box-sizing: border-box;
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 10px 10px gray;
+    margin-left: 10%;
+    margin-right: 3%;
 }
 .jiga{
     border-left: 8px  solid red;
@@ -106,6 +109,5 @@ section{
 footer{
     text-align: center;
 }
-
 
 
