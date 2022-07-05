@@ -37,7 +37,8 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     text-decoration: dotted;
-    margin: 30%;    
+    margin: 30%;   
+   
 }
 .cool-image{
     background-image: url(images/cool-background.png);
@@ -65,8 +66,46 @@ section{
     text-align: justify;
     padding-right: 15px;
     padding-left: 2px;
+
 }
-#ne-ch{
-    display: flex;
+.no{
+    font-size: 60px;
+    padding-left: 5%;
 }
+.yes{
+    font-size: 40px;
+    width: 30%;
+    padding-left: 400px;
+}
+.chi{
+    font-size: 40px;
+    width: 30%;
+    margin-left: 10%;
+  
+
+}
+#ki{
+    
+    
+    background-image: url(images/cool-background.png);
+    
+}
+.kamlesh{
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px gray;
+}
+.jiga{
+    border-left: 8px  solid red;
+    border-radius: 5px;
+}
+.jigs{
+    border-left: 8px  solid rgb(16, 7, 190);
+    border-radius: 5px;
+
+}
+footer{
+    text-align: center;
+}
+
+
 
